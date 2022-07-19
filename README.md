@@ -11,7 +11,9 @@ This flow does following items and refreshes every 60 seconds
 
 * More notifications can be added like text, telegram, discord, etc by doing a bit of research and adding the correct configurations
 
-# Pre Loading Configuration
+# RECOMMENDED METHOD - [Install Script](./auto_install.md) 
+# Pre Loading Configuration - Skip if using [Install Script](./auto_install.md)
+
 
 These flows require sqlite3 to be installed on your system.  At a terminal command prompt issue the command (everything after the $).
 ```
